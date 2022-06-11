@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2babd517-03bd-424d-be37-f79731f72f97" name="diplom" url="http://zarvad.ru">
-        <fileTransfer rootFolder="/www/zarvad.ru" host="zarvad.ru" port="21">
+      <webServer id="a75bb97f-3365-4c23-8055-ae16ad5b5e08" name="b2" url="http://zarvad.ru">
+        <fileTransfer host="31.31.198.105" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
