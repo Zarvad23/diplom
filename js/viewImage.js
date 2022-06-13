@@ -28,7 +28,7 @@ document.body.append(container);
 for (let i = 0; i <= imageContainer.length; i++){
     let currentImage = imageContainer[i];
     currentImage.addEventListener('click', function() {
-        image.src = window.getComputedStyle(currentImage).backgroundImage.slice(21,53);
+        image.src = window.getComputedStyle(currentImage).backgroundImage.slice(21,40);
         container.style.display = 'block'
     })
 }
