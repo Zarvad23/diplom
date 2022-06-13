@@ -17,7 +17,8 @@ container.style = `
                    height: 100%;
                    background-color: rgba(0,0,0,0.4);
                    display: none;
-                   z-index: 10000;`;
+                   z-index: 10000;
+                   padding: 30px 0;`;
 container.append(image);
 container.addEventListener('click', function() {
     container.style.display = 'none'
