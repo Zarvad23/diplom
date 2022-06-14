@@ -1,6 +1,7 @@
 let moreWorks = document.getElementById('moreWorks');
 let ourWorks  = document.querySelector('.our-works .container');
 let Works  = document.querySelectorAll('.our-works .container .work');
+
 moreWorks.addEventListener('click', function (evt) {
     evt.preventDefault();
     moreWorks.style.display = 'none'
@@ -10,3 +11,4 @@ moreWorks.addEventListener('click', function (evt) {
         work.style.opacity = '1'
     }
 })
+
