@@ -218,7 +218,7 @@
             </ul>
         </div>
     </div>
-    <div class="choiceFabrik">
+    <div class="choiceFabrik element-animation">
         <div class="container">
             <div class="choiceFabrik-left">
                 <span></span>

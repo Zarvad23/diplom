@@ -446,6 +446,7 @@ section:not(:last-child){
     background-color: #586b78;
     padding: 50px;
     color: white!important;
+    margin-bottom: 100px;
 }
 
 .Feedback .container{

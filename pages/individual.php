@@ -11,7 +11,7 @@
                 <li><a href="cleaners.php">Химчистка</a></li>
                 <li><a href="fabrics.php">Ткани</a></li>
                 <li><a href="prices.php">Цены</a></li>
-                <li><a href="individual.html">Индивидуальный пошив</a></li>
+                <li><a href="individual.php">Индивидуальный пошив</a></li>
                 <li><a href="about.php">О нас</a></li>
                 <li><a href="contacts.php">Контакты</a></li>
             </ul>

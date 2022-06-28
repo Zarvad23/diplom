@@ -45,7 +45,7 @@
             </div>
         </div>
     </section>
-    <section class="advantages">
+    <section class="advantages element-animation">
         <div class="container">
             <h2>Наши преимущества</h2>
             <ul class="advantages-list">

@@ -41,7 +41,7 @@
             <p>Для жителей Сургута делаем химчистку мебели, штор, одежды, ковров. Работаем 24/7. У нас собственное
                 круглосуточное производство, что позволяет удерживать цены на услуги на среднем уровне, предоставляя
                 безупречное качество.</p>
-            <ul>
+            <ul class="element-animation">
                 <li>
                     <div>
                         <h3>Бесплатный выезд и консультация специалиста</h3>
@@ -99,7 +99,7 @@
     <div class="cleaners-services-section">
         <div class="container">
             <h2>Услуги химчистки</h2>
-            <div class="cleaners-services">
+            <div class="cleaners-services element-animation">
                 <div class="cleaner-service">
                     <div class="cleaner-service_content">
                         <h3>Химчистка мебели</h3>
@@ -207,7 +207,7 @@
         </div>
     </div>
     <div class="cleaner-service-included">
-        <div class="container">
+        <div class="container element-animation">
             <div class="cleaner-service-included_left">
                 <h2>Что входит в услугу</h2>
                 <p>В цену услуг входит:</p>
@@ -224,7 +224,7 @@
         </div>
     </div>
     <div class="cleaner-order-section">
-        <div class="container">
+        <div class="container element-animation">
             <h2>Технология чистки изделией на предприятии</h2>
             <div class="cleaner-orders">
                 <ul>
@@ -260,7 +260,7 @@
             </div>
         </div>
     </div>
-    <div class="cleaners-slider">
+    <div class="cleaners-slider element-animation">
         <div class="container">
             <input type="radio" name="slide" id="slide-1" checked>
             <input type="radio" name="slide" id="slide-2">
@@ -325,7 +325,7 @@
         <div class="container">
             <h2>Последние отзывы</h2>
             <div>
-                <div class="review">
+                <div class="review element-animation">
                     <div class="review-avatar">
                         <span></span>
                     </div>
@@ -338,7 +338,7 @@
                             Рекомендую</p>
                     </div>
                 </div>
-                <div class="review">
+                <div class="review element-animation">
                     <div class="review-avatar">
                         <span></span>
                     </div>
@@ -351,7 +351,7 @@
                             Рекомендую!</p>
                     </div>
                 </div>
-                <div class="review">
+                <div class="review element-animation">
                     <div class="review-avatar">
                         <span></span>
                     </div>
@@ -366,7 +366,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="review">
+                <div class="review element-animation">
                     <div class="review-avatar">
                         <span></span>
                     </div>
