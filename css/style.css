@@ -2607,10 +2607,24 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
     animation: 0.7s linear 1s alternate aboutUsLeft;
 }
 
+.aboutUs_right{
+    animation: 0.7s linear 1s alternate aboutUsRight;
+}
+
 @keyframes aboutUsLeft {
     from{
         opacity: 0;
         transform: translateX(-60%);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+@keyframes aboutUsRight {
+    from{
+        opacity: 0;
+        transform: translateX(60%);
     }
     to{
         opacity: 1;
