@@ -2584,7 +2584,6 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
 }
 
 .our-works .active {
-    margin: 0 -1% 15px;
     overflow: hidden;
 }
 .our-works .active span {
