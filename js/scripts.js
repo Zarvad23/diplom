@@ -29,7 +29,7 @@ function scrollTracking(){
         block_show = true;
 
         // Код анимации
-        $('.active div:eq(0)').show('fast', function(){
+        $('.active span:eq(0)').show('fast', function(){
             $(this).next().show('fast', arguments.callee);
         });
     }
