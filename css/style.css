@@ -10,8 +10,8 @@
 }
 
 body {
-    font-family: Arial, serif;
-    color: #4f3517;
+    font-family: 'Roboto';
+    color: #674931;
     text-align: justify;
 }
 
@@ -47,6 +47,9 @@ header .container{
     margin: 0 auto;
 }
 
+h1,h2,h3{
+    font-family: 'Play';
+}
 
 h2{
     margin-bottom: 80px;
