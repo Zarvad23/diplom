@@ -2585,7 +2585,8 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
 
 .our-works .active {
     overflow: hidden;
+    transition: all 3s;
 }
 .our-works .active span {
-    display: none;
+    visibility: hidden;
 }
