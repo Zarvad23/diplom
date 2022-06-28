@@ -29,7 +29,7 @@
             <p>Отличные цены и высококласное качество</p>
         </div>
     </section>
-    <section class="about">
+    <section class="about element-animation">
         <h2>О нас</h2>
         <div class="container">
             <div class="about-image">
@@ -94,22 +94,22 @@
     <section class="services">
         <h2>Услуги</h2>
         <div class="container">
-            <div class="service service1">
+            <div class="service service1 element-animation">
                 <h3 class="service-title">Ремонт одежды</h3>
                 <p class="service-text">Произведение ремонта одежды любого типа и сложности, в самые кратчайшие сроки и оптимальной цене</p>
                 <a class="btn" href="pages/repair.php#repair_linkor">Узнать больше</a>
             </div>
-            <div class="service service2">
+            <div class="service service2 element-animation">
                 <h3 class="service-title">Ремонт обуви</h3>
                 <p class="service-text">Высококлассный ремонт обуви любой сложности: от замены набоек и восстановления цвета до изменения фасона изделия.</p>
                 <a class="btn" href="pages/repair.php#repair_linkor">Узнать больше</a>
             </div>
-            <div class="service service3">
+            <div class="service service3 element-animation">
                 <h3 class="service-title">Химчистка</h3>
                 <p class="service-text">Мы проводим качественную и бережную чистку изделий из любых материалов, а для случаев, требующих индивидуального подхода, предусмотрена услуга VIP технолога.</p>
                 <a class="btn" href="pages/cleaners.php">Узнать больше</a>
             </div>
-            <div class="service service4">
+            <div class="service service4 element-animation">
                 <h3 class="service-title">Индивидуальный подшив</h3>
                 <p class="service-text">Дизайнеры, портные и швеи создают роскошные вещи для разных случаев, любых фасонов и сложности. Специалисты разрабатывают индивидуальную модель костюма и пошьют его в классическом стиле, элегантно-нарядном, офисном или для ежедневного использования.</p>
                 <a class="btn" href="pages/individual.php">Узнать больше</a>
@@ -117,7 +117,7 @@
             <a class="btn" href="pages/repair.php">Все услуги</a>
         </div>
     </section>
-    <section class="Feedback">
+    <section class="Feedback element-animation">
         <h2>Обратная связь</h2>
         <div class="container" id="feedback-linkor">
             <form action="GET" id="ajax-form-1">
