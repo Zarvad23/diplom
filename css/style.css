@@ -2586,12 +2586,12 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
 
 /*Анимация при скроле*/
 .element-animation {
-    margin: 2rem 0;
     font-size: 3rem;
 
     /* Скроем элемент в начальном состоянии */
     opacity: 0;
     transform: translateY(20px);
+
 }
 
 .element-animation.element-show {
