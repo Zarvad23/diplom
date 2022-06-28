@@ -2604,13 +2604,13 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
 /*Личные анимации*/
 
 .aboutUs_left span{
-    animation: 1s linear 1s alternate aboutUsLeft;
+    animation: 0.7s linear 1s alternate aboutUsLeft;
 }
 
 @keyframes aboutUsLeft {
     from{
         opacity: 0;
-        transform: translateX(-100%);
+        transform: translateX(-60%);
     }
     to{
         opacity: 1;
