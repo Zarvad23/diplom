@@ -2583,11 +2583,11 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
     padding: 80px 0;
 }
 
-.active {
+.our-works .active {
     margin: 0 -1% 15px;
     overflow: hidden;
 }
-.active span {
+.our-works .active span {
     display: none;
     float: left;
     width: 23%;
