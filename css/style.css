@@ -2586,7 +2586,7 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
 
 /*Анимация при скроле*/
 .element-animation {
-    font-size: 3rem;
+
 
     /* Скроем элемент в начальном состоянии */
     opacity: 0;
