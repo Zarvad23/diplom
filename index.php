@@ -78,7 +78,7 @@
     </section>
     <section class="our-works">
         <h2>Наши работы</h2>
-        <div class="container active">
+        <div class="container element-animation">
             <span class="work work1"></span>
             <span class="work work2"></span>
             <span class="work work3"></span>
