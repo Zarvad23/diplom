@@ -9,8 +9,5 @@ $("#ajax-form-1").submit(function(e){
             'name': name,
             'message': message
         },
-        success: function(data){
-            alert(data);
-        }
     });
 });
