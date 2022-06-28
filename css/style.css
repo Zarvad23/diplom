@@ -2582,11 +2582,3 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
     background-color: #f1f1f1;
     padding: 80px 0;
 }
-
-.our-works .active {
-    overflow: hidden;
-    transition: all 3s;
-}
-.our-works .active span {
-    visibility: hidden;
-}
