@@ -23,7 +23,7 @@
 </header>
 <div class="main">
     <div class="prices-promo">
-        <div class="container">
+        <div class="container element-animation">
             <h2>Цены (прайс лист)</h2>
             <h3>Цены на индивидуальный пошив одежды в ателье</h3>
             <p>При оформлении заказа на индивидуальный пошив важное значение приобретают цены. На этой странице ателье
@@ -51,7 +51,7 @@
     <div class="prices-tables prices-table1">
         <div class="container">
             <h2>Прейскурант на ремонт вязаного трикотажа</h2>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту вязанного трикотажа</th>
                     <th class="table-quant">Количество</th>
@@ -82,7 +82,7 @@
     <div class="prices-tables prices-table2">
         <div class="container">
             <h2>Прейскурант на коррекцию одежды по фигуре</h2>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по коррекции одежды по фигуре</th>
                     <th class="table-quant">Количество</th>
@@ -131,7 +131,7 @@
     <div class="prices-tables prices-table3">
         <div class="container">
             <h2>Прейскурант на ремонт текстильной одежды лёгкой группы</h2>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту лёгкой одежды (платья, рубашки, юбки, брюки)</th>
                     <th class="table-quant">Количество</th>
@@ -315,7 +315,7 @@
                 групп</h2>
             <p>*Костюмная группа: пиджаки, жакеты на подкладке и без.</p>
             <p>*Демисезонная группа: пальто, куртки, плащи на подкладке, без утеплителя.</p>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту одежды костюмной и демисезонной групп (пиджаки, жакеты, куртки, пальто на подкладке без утеплителя)</th>
                     <th class="table-quant">Количество</th>
@@ -515,7 +515,7 @@
         <div class="container">
             <h2>Прейскурант на ремонт текстильной одежды утеплённой группы</h2>
             <p>*Утеплённая группа: пальто, куртки, комбинезоны, брюки на подкладке, с утеплителем или на пуху</p>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту одежды утеплённой группы (куртки, пальто, комбинезоны на подкладке с утеплителем, пуховики)</th>
                     <th class="table-quant">Количество</th>
@@ -709,7 +709,7 @@
         <div class="container">
             <h2>Прейскурант на ремонт одежды коже-замшевого ассортимента</h2>
             <p>*Коже-замшевый ассортимент: кожаные брюки, рубашки, платья, жилеты, куртки, плащи, дублёнки.</p>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту одежды коже-замшевого ассортимента (жилеты, куртки, пальто, плащи, брюки, юбки, платья)</th>
                     <th class="table-quant">Количество</th>
@@ -956,7 +956,7 @@
     <div class="prices-tables prices-table7">
         <div class="container">
             <h2>Прейскурант на ремонт одежды из натурального меха</h2>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту одежды из натурального меха</th>
                     <th class="table-quant">Количество</th>
@@ -1167,7 +1167,7 @@
     <div class="prices-tables prices-table8">
         <div class="container">
             <h2>Прейскурант на ремонт предметов домашнего интерьера</h2>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название операции по ремонту предметов домашнего интерьера</th>
                     <th class="table-quant">Количество</th>
@@ -1240,7 +1240,7 @@
     <div class="prices-tables prices-table9">
         <div class="container">
             <h2>Прейскурант на фурнитуру и прикладные материалы</h2>
-            <table class="price-table element-animation">
+            <table class="price-table ">
                 <tr class="table-row-header">
                     <th class="table-title">Название материала или фурнитуры</th>
                     <th class="table-quant">Количество</th>
@@ -1312,7 +1312,7 @@
     <div class="prices-contact contact-form">
         <div class="container">
             <h2>Напишите нам:</h2>
-            <form action="POST" class="element-animation">
+            <form action="POST" class="">
                 <input type="text" name="contact-name" id="contact-name" placeholder="Ваше имя">
                 <input type="text" name="contact-mail" id="contact-mail" placeholder="Электронная почта">
                 <input type="text" name="contact-phone" id="contact-phone" placeholder="Ваше телефон">

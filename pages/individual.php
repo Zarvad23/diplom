@@ -57,7 +57,7 @@
                 повседневную верхнюю одежды на стандартную фигуру, для полных и больших размеров.</p>
         </div>
     </div>
-    <div class="individual-sex">
+    <div class="individual-sex element-animation">
         <div class="container">
             <div class="individualChangeBtns">
                 <a class="ChangeBtn ChangeBtnMale changeBtnsActive" href="#">Мужской пошив</a>
@@ -158,7 +158,7 @@
     <div class="individual-steps">
         <div class="container">
             <h2>6 шагов к воплощению вашей идеи</h2>
-            <div class="individual-steps-list">
+            <div class="individual-steps-list element-animation">
                 <ul>
                     <li>
                         <h3>Обсуждаем модель</h3>
@@ -192,7 +192,7 @@
             </div>
         </div>
     </div>
-    <div class="individual-slider">
+    <div class="individual-slider element-animation">
         <h2>Как проходит работа по снятию мерок</h2>
         <div class="container">
             <input type="radio" name="slider-2" id="slider-2_1" checked>
@@ -262,7 +262,7 @@
         </div>
     </div>
     <div class="individual-conclusion">
-        <div class="container">
+        <div class="container element-animation">
             <h2>Индивидуальный пошив одежды в Ателье</h2>
             <p>Как получить именно то самое платье или пальто, о котором вы мечтаете?
                 Обзавестись наконец идеальными брюками или пиджаком уникального фасона? Ответ — сшить одежду на заказ. И

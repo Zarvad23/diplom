@@ -2600,3 +2600,20 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
     transition: all 1.5s;
     transform: translateY(0%);
 }
+
+/*Личные анимации*/
+
+.aboutUs_left span{
+    animation: 1s linear 1s alternate aboutUsLeft;
+}
+
+@keyframes aboutUsLeft {
+    from{
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}

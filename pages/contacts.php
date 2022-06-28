@@ -59,7 +59,7 @@
     <div class="contact-form">
         <div class="container">
             <h2>Напишите нам:</h2>
-            <form action="POST">
+            <form action="POST" class="element-animation">
                 <input type="text" name="contact-name" id="contact-name" placeholder="Ваше имя">
                 <input type="text" name="contact-mail" id="contact-mail" placeholder="Электронная почта">
                 <input type="text" name="contact-phone" id="contact-phone" placeholder="Ваше телефон">
