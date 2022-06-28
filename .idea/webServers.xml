@@ -9,6 +9,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="58e41baf-0db2-435f-b782-d7628877b30c" name="local" url="http://localhost">
+        <fileTransfer mountedRoot="D:\Documents\GitHub\diplom" accessType="MOUNT" port="0" />
+      </webServer>
     </option>
   </component>
 </project>

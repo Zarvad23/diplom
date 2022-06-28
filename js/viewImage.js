@@ -29,7 +29,8 @@ document.body.append(container);
 for (let i = 0; i <= imageContainer.length; i++){
     let currentImage = imageContainer[i];
     currentImage.addEventListener('click', function() {
-        image.src = window.getComputedStyle(currentImage).backgroundImage.slice(21,40);
+        let url = $(currentImage).css('background-image');
+        image.src = url.replace(/^url\(["']?/, '').replace(/["']?\)$/, '');
         container.style.display = 'block'
     })
 }
