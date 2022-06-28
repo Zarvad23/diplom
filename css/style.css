@@ -2582,3 +2582,19 @@ input#slide-7:checked ~ .slider-wrapper .slider-slider{
     background-color: #f1f1f1;
     padding: 80px 0;
 }
+
+.active {
+    margin: 0 -1% 15px;
+    overflow: hidden;
+}
+.active span {
+    display: none;
+    float: left;
+    width: 23%;
+    margin: 1%;
+    padding: 40px 0;
+    background-image: linear-gradient(135deg, #ffaede, #ff9797);
+    font-size: 60px;
+    color: #fff;
+    text-align: center;
+}
