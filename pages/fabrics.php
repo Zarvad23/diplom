@@ -9,7 +9,7 @@
             <ul class="nav-menu">
                 <li><a href="repair.php">Ремонт</a></li>
                 <li><a href="cleaners.php">Химчистка</a></li>
-                <li><a href="fabrics.html">Ткани</a></li>
+                <li><a href="fabrics.php">Ткани</a></li>
                 <li><a href="prices.php">Цены</a></li>
                 <li><a href="individual.php">Индивидуальный пошив</a></li>
                 <li><a href="about.php">О нас</a></li>
@@ -266,27 +266,13 @@
             </div>
         </div>
         <ul class="footer-menu">
-            <li>
-                <a href="#">Ремонт</a>
-            </li>
-            <li>
-                <a href="#">Химчистка</a>
-            </li>
-            <li>
-                <a href="#">Ткани</a>
-            </li>
-            <li>
-                <a href="#">Цены</a>
-            </li>
-            <li>
-                <a href="#">Индивидуальный подшив</a>
-            </li>
-            <li>
-                <a href="#">О нас</a>
-            </li>
-            <li>
-                <a href="#">Контакты</a>
-            </li>
+            <li><a href="repair.php">Ремонт</a></li>
+            <li><a href="cleaners.php">Химчистка</a></li>
+            <li><a href="fabrics.php">Ткани</a></li>
+            <li><a href="prices.php">Цены</a></li>
+            <li><a href="individual.php">Индивидуальный пошив</a></li>
+            <li><a href="about.php">О нас</a></li>
+            <li><a href="contacts.php">Контакты</a></li>
         </ul>
     </div>
     <span class="copyright"> Copyright © Сайт выполнен в рамках дипломной работы Зарифуллиным Вадимом</span>
